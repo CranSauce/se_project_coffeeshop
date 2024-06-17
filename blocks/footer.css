@@ -1,11 +1,9 @@
 .footer {
-  padding: 80px 60px;
+  padding: 60px 80px;
   background: linear-gradient(180deg, #0A2850 0%, #071931 100%);
   color: #fff;
   position: relative;
   box-sizing: border-box;
-  display: flex;
-  justify-content: space-between;
 }
 
 .footer__columns {
@@ -62,8 +60,8 @@
 }
 
 .footer__copyright {
-  font-size: 14px;
+  font-size: 16px;
   color: #fff;
-  margin: 108px 0 60px 0;
+  margin: 108px 0 0;
   padding: 0;
 }

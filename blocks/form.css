@@ -29,6 +29,9 @@
   display:block;
   width:100%;
   box-sizing: border-box;
+  border-color: #838383;
+  border-width: 1px;
+  border-style: solid;
   margin-top: 8px;
   height: 60px;
   font-family: Inter;
@@ -43,6 +46,7 @@
     width:100%;
     margin-bottom: 32px;
     height: 60px;
+    border:none;
     font-family: Inter;
   font-style: normal;
   font-weight: 500;
